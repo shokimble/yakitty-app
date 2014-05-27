@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="au.com.news.heraldsunnow" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0">
+    <name>HS Now</name>
+    <description>
+       Red Button
+    </description>
+    <author email="kimble.young@news.com.au" href="http://www.newsfoundry.com.au">
+        Kimble Young
+    </author>
+
+    <content src="index.html" />
+    <access origin="*" />
+
+    <preference name="fullscreen" value="false" />
+    <preference name="orientation" value="portrait" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+
+</widget>
+
